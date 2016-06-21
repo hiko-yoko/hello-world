@@ -1,3 +1,3 @@
 # hello-world
 respository
-i'm from kazakstan.I'm a student.
+i'm from Kazakstan.I'm a student.
